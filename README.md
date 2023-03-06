@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
 <body>
-
-<h2>HTML Image</h2>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+<h1>This is Luke Junjie Hu</h1>
+<p>This Luke.I am from jiaxing zhejiang. I like ride bicycle listening some chinese tradition music in some free times and I hope to learn better IT knowledge.</p>
 
 </body>
 </html>
-![123 jpg](https://user-images.githubusercontent.com/127079053/223103924-f1f72e68-d105-4392-9f6b-0242dbf2a1e4.jpg)
-<img src="123.jpg">![123 jpg](https://user-images.githubusercontent.com/127079053/223104484-0a2408f3-62df-466b-9972-cfe62e0eae57.jpg)
+
+![123 jpg](https://user-images.githubusercontent.com/127079053/223109026-0122ea43-1d52-4bff-8e3a-3527bf644347.jpg)
