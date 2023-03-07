@@ -1,12 +1,10 @@
-<!DOCTYPE html> 
- <html> 
- <body> 
-   <h1>Survey results</h1> 
-   < img src="https://user-images.githubusercontent.com/127079053/223423080-92313d52-280a-43c0-a24a-c3a81690325a.jpg" alt="图片"> 
-   <p>Most customers think it is inconvenient to buy .</p > 
-   </body> 
- </html> 
- < img src="https://user-images.githubusercontent.com/127079053/223423080-92313d52-280a-43c0-a24a-c3a81690325a.jpg" alt="图片"> 
-   <p> Only half of our customers are satisfied with our products, which means that our products are not comprehensive and diversified enough.</p > 
- < img src="https://user-images.githubusercontent.com/127079053/223423080-92313d52-280a-43c0-a24a-c3a81690325a.jpg" alt="图片"> 
- <p>More than half of our customers are attracted by our product concept, and the concept of green environmental protection is our advantage </p > 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="https://user-images.githubusercontent.com/127079053/223427974-1a48ff0c-145a-41c1-b614-51850d003d34.jpg" alt="Trulli" width="500" height="333">
+
+</body>
+</html>
+
