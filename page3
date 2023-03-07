@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h2>HTML Image</h2>
-<img src="https://user-images.githubusercontent.com/127079053/223427974-1a48ff0c-145a-41c1-b614-51850d003d34.jpg" alt="Trulli" width="500" height="333">
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
+<img src="img_girl.jpg" alt="Girl in a jacket">
 </body>
 </html>
-
