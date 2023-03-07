@@ -20,4 +20,5 @@
 
 ![What do you pay more attention to when buying A this product](https://user-images.githubusercontent.com/127079053/223458233-018581ab-c724-47fb-b9af-4b150e3a3653.jpg)
 
-![process](https://user-images.githubusercontent.com/127079053/223466591-ce4d2577-d495-4e78-aa14-5f68a36eb9c2.png)
+![process](https://user-images.githubusercontent.com/127079053/223469214-d1207ba5-1891-4422-87d4-eebd8b562984.jpg)
+
