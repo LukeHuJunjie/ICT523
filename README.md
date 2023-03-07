@@ -19,3 +19,5 @@
 ![How much do you think the service personnel know about the products and systems](https://user-images.githubusercontent.com/127079053/223458214-f7257633-dd7c-4492-a6de-7d8ac708fb73.jpg)
 
 ![What do you pay more attention to when buying A this product](https://user-images.githubusercontent.com/127079053/223458233-018581ab-c724-47fb-b9af-4b150e3a3653.jpg)
+
+![process](https://user-images.githubusercontent.com/127079053/223466591-ce4d2577-d495-4e78-aa14-5f68a36eb9c2.png)
